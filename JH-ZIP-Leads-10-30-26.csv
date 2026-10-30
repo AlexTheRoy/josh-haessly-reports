@@ -1,0 +1,108 @@
+zip,county,city,leads,inbound_callers,inbound_calls,quoted_in_goal,sold_in_goal
+76209,Denton,Denton,1,1,1,1,1
+75104,Dallas,Cedar Hill,2,1,1,1,0
+75098,Collin,Wylie,4,0,0,0,0
+78660,Travis,Pflugerville,4,0,0,0,0
+76131,Tarrant,Fort Worth,3,0,0,0,0
+79938,El Paso,El Paso,3,0,0,0,0
+75052,Dallas,Grand Prairie,2,0,0,0,0
+75071,Collin,Mckinney,2,0,0,0,0
+75087,Rockwall,Rockwall,2,0,0,0,0
+76036,Tarrant,Crowley,2,0,0,0,0
+76137,Tarrant,Fort Worth,2,0,0,0,0
+76227,Denton,Aubrey,2,0,0,0,0
+76502,Bell,Temple,2,0,0,0,0
+78602,Bastrop,Bastrop,2,0,0,0,0
+79763,Ector,Odessa,2,0,0,0,0
+75007,Denton,Carrollton,1,0,0,0,0
+75028,Denton,Flower Mound,1,0,0,0,0
+75032,Rockwall,Rockwall,1,0,0,0,0
+75038,Dallas,Irving,1,0,0,0,0
+75040,Dallas,Garland,1,0,0,0,0
+75044,Dallas,Garland,1,0,0,0,0
+75061,Dallas,"Irving, Tx 75061, Usa",1,0,0,0,0
+75068,Denton,Little Elm,1,0,0,0,0
+75069,Collin,Mckinney,1,0,0,0,0
+75077,Denton,Lewisville,1,0,0,0,0
+75126,Kaufman,Forney,1,0,0,0,0
+75146,Dallas,Lancaster,1,0,0,0,0
+75154,Ellis,Red Oak,1,0,0,0,0
+75165,Ellis,Waxahachie,1,0,0,0,0
+75169,Van Zandt,Wills Point,1,0,0,0,0
+75180,Dallas,Balch Springs,1,0,0,0,0
+75189,Rockwall,Royse City,1,0,0,0,0
+75211,Dallas,Dallas,1,0,0,0,0
+75224,Dallas,Dallas,1,0,0,0,0
+75287,Collin,Dallas,1,0,0,0,0
+75401,Hunt,Greenville,1,0,0,0,0
+75418,Fannin,Bonham,1,0,0,0,0
+75426,Red River,Clarksville,1,0,0,0,0
+75447,Fannin,Ivanhoe,1,0,0,0,0
+75495,Grayson,Van Alstyne,1,0,0,0,0
+75497,Wood,Yantis,1,1,1,0,0
+75559,Bowie,De Kalb,1,0,0,0,0
+75601,Gregg,Longview,1,0,0,0,0
+75672,Harrison,Marshall,1,0,0,0,0
+75683,Upshur,Ore City,1,0,0,0,0
+75901,Angelina,Lufkin,1,0,0,0,0
+75949,Angelina,Huntington,1,0,0,0,0
+75972,San Augustine,San Augustine,1,0,0,0,0
+76010,Tarrant,Arlington,1,0,0,0,0
+76018,Tarrant,Arlington,1,0,0,0,0
+76020,Tarrant,Azle,1,0,0,0,0
+76031,Johnson,Cleburne,1,0,0,0,0
+76033,Johnson,Cleburne,1,0,0,0,0
+76049,Hood,Granbury,1,0,0,0,0
+76051,Tarrant,Grapevine,1,0,0,0,0
+76064,Ellis,Maypearl,1,0,0,0,0
+76106,Tarrant,Fort Worth,1,0,0,0,0
+76107,Tarrant,Fort Worth,1,0,0,0,0
+76116,Tarrant,Fort Worth,1,0,0,0,0
+76118,Tarrant,Fort Worth,1,0,0,0,0
+76134,Tarrant,Fort Worth,1,0,0,0,0
+76179,Tarrant,Saginaw,1,1,1,0,0
+76247,Denton,Justin,1,0,0,0,0
+76266,Denton,Sanger,1,0,0,0,0
+76306,Wichita,Wichita Falls,1,0,0,0,0
+76354,Wichita,Burkburnett,1,0,0,0,0
+76448,Eastland,Eastland,1,0,0,0,0
+76457,Hamilton,Hico,1,0,0,0,0
+76528,Coryell,Gatesville,1,0,0,0,0
+76537,Williamson,Jarrell,1,0,0,0,0
+76567,Milam,Rockdale,1,0,0,0,0
+76571,Bell,Salado,1,0,0,0,0
+76657,McLennan,Mcgregor,1,0,0,0,0
+76903,Tom Green,San Angelo,1,0,0,0,0
+77802,Brazos,Bryan,1,0,0,0,0
+78009,Medina,Castroville,1,0,0,0,0
+78040,Webb,Laredo,1,0,0,0,0
+78045,Webb,Laredo,1,0,0,0,0
+78109,Bexar,Converse,1,0,0,0,0
+78133,Comal,Canyon Lake,1,0,0,0,0
+78154,Guadalupe,Schertz,1,1,1,0,0
+78201,Bexar,San Antonio,1,0,0,0,0
+78202,Bexar,San Antonio,1,0,0,0,0
+78205,Bexar,San Antonio,1,0,0,0,0
+78218,Bexar,San Antonio,1,0,0,0,0
+78220,Bexar,San Antonio,1,0,0,0,0
+78221,Bexar,San Antonio,1,0,0,0,0
+78233,Bexar,San Antonio,1,0,0,0,0
+78238,Bexar,San Antonio,1,0,0,0,0
+78250,Bexar,San Antonio,1,0,0,0,0
+78252,Bexar,San Antonio,1,0,0,0,0
+78664,Williamson,Round Rock,1,0,0,0,0
+78737,Hays,Austin,1,0,0,0,0
+78748,Travis,Austin,1,0,0,0,0
+79045,Deaf Smith,Hereford,1,0,0,0,0
+79118,Randall,Amarillo,1,0,0,0,0
+79121,Randall,Amarillo,1,0,0,0,0
+79345,Terry,Meadow,1,0,0,0,0
+79373,Lynn,Tahoka,1,0,0,0,0
+79382,Lubbock,Wolfforth,1,0,0,0,0
+79407,Lubbock,Lubbock,1,0,0,0,0
+79423,Lubbock,Lubbock,1,0,0,0,0
+79705,Midland,Midland,1,0,0,0,0
+79707,Midland,Midland,1,0,0,0,0
+79907,El Paso,El Paso,1,0,0,0,0
+79927,El Paso,El Paso,1,0,0,0,0
+79928,El Paso,El Paso,1,0,0,0,0
